@@ -1,0 +1,28 @@
+.fr {
+  float: right;
+}
+.fl {
+  float: left;
+}
+.main {
+  padding: 20px 10px;
+}
+ h1 {
+  line-height: 40px;
+  font-size: 20px;
+}
+h3 > span {
+  padding: 5px 10px;
+  border-radius: 3px;
+  color: #fff;
+}
+h3 > a {
+  line-height: 30px;
+}
+p {
+  display: flex;
+}
+
+div {
+  box-size: border-box;
+}
